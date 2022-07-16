@@ -1,4 +1,4 @@
-import { Container } from "@nextui-org/react";
+import { Container } from "@mantine/core";
 
 function IndexPage() {
   return <Container>Hello Developers from India!</Container>;
