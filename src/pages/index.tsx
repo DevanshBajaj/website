@@ -1,5 +1,5 @@
 function IndexPage() {
-  return <>Hello Jarmos!</>;
+  return <>Hello Developers from India!</>;
 }
 
 export default IndexPage;
